@@ -225,14 +225,3 @@ Set delay in object parameter:
 | lifecycle       | Specify state execution function                                        | -                                     | [Lifecycle](#Lifecycle)                                                                                       |
 | delay           | Time in milliseconds an image has to stay visible before loading starts | 0                                     | number                                                                                                        |
 
-## ⛱ Lifecycle Hooks
-
-| key     | description      |
-| ------- | ---------------- |
-| loading | Image loading    |
-| loaded  | Image loaded     |
-| error   | Image load error |
-
-## [Contributors](https://github.com/murongg/vue3-lazyload/graphs/contributors)
-
-![Contributors](https://contrib.rocks/image?repo=murongg/vue3-lazyload)
